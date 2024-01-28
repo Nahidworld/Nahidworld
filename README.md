@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Nahid
-- 🌱 I’m currently learning CSS, Python!
+- 🌱 I’m currently learning HTML, CSS, Python!
 
 <!---
 Nahidworld/Nahidworld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
