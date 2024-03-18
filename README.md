@@ -17,11 +17,6 @@
   <li>🤖 I'm particularly drawn to the intersection of creativity and technology, and I'm excited to explore the endless possibilities that web design offers.</li>
 </ul>
 
-<h2>🤝 Let's Connect</h2>
-<ul>
-  <li>🌟 If you share similar interests or have any exciting projects in mind, 👉<a href="https://www.facebook.com/fahimbinimam">feel free to reach out!</a> I'm always eager to collaborate, learn from others, and contribute to impactful initiatives within the tech community.<p>Let's create something amazing together! 🚀</p> </li>
-</ul>
-
 
 <!---
 Nahidworld/Nahidworld is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
