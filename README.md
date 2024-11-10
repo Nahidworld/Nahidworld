@@ -1,10 +1,11 @@
-<b> Hi there!👋 I'm Nahid.</b>
+<b> 👋 Hi, I'm Nahid!</b>
 <ul>
-  <li>🌱 Welcome to my profile! I'm enthusiastic about growth and learning.</li>
-  <li>🤖  passionate about honing my skills in web development .</li>
-  <li>🤓 Currently, I'm delving deep into CSS, and JavaScript, constantly seeking to broaden my understanding and proficiency in these languages.</li>
+  <li>🌱 Web dev enthusiast, learning and growing every day.</li>
+  <li>🎨 Passionate about crafting beautiful, functional designs.</li>
+  <li>💻 Currently exploring CSS & JavaScript.</li>
+  <li>🚀 Excited to blend creativity and tech to build something awesome!</li>
 </ul>
-
+<!---
 <b>🌈 About Me</b>
 <ul>
   <li>🎨 I enjoy the process of crafting aesthetically pleasing and functional web designs. </li>
