@@ -2,7 +2,7 @@
 <ul>
   <li>🌱 Web dev enthusiast, learning and growing every day.</li>
   <li>🎨 Passionate about crafting beautiful, functional designs.</li>
-  <li>💻 Currently exploring CSS & JavaScript.</li>
+  <li>💻 Currently exploring Nestjs</li>
   <li>🚀 Excited to blend creativity and tech to build something awesome!</li>
 </ul>
 <!---
