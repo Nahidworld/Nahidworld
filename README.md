@@ -17,6 +17,9 @@
   <li>🌱 Currently, I'm immersing myself in building a strong foundation in web development.</li>
   <li>🤖 I'm particularly drawn to the intersection of creativity and technology, and I'm excited to explore the endless possibilities that web design offers.</li>
 </ul>
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Nahidworld.Nahidworld&"  />
+</div>
 
 
 <!---
