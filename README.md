@@ -1,27 +1,58 @@
-<b> 👋 Hi, I'm Nahid!</b>
-<ul>
-  <li>🌱 Web dev enthusiast, learning and growing every day.</li>
-  <li>🎨 Passionate about crafting beautiful, functional designs.</li>
-  <li>💻 Currently exploring Nestjs,NextJs</li>
-  <li>🚀 Excited to blend creativity and tech to build something awesome!</li>
-</ul>
-<!---
-<b>🌈 About Me</b>
-<ul>
-  <li>🎨 I enjoy the process of crafting aesthetically pleasing and functional web designs. </li>
-  <li>💡 With a keen interest in web design, I'm dedicated to creating engaging user experiences and exploring innovative solutions to complex problems. </li>
-</ul>
+<h1 align="left">Hey 👋 </h1>
 
-<b>🎯 What I'm Up To</b>
-<ul>
-  <li>🌱 Currently, I'm immersing myself in building a strong foundation in web development.</li>
-  <li>🤖 I'm particularly drawn to the intersection of creativity and technology, and I'm excited to explore the endless possibilities that web design offers.</li>
-</ul> 
-<img src="https://visitor-badge.laobi.icu/badge?page_id=Nahidworld"  />
+###
 
+<p align="left">My name is Nahid and I'm a passionate Web & Mobile Developer, from Bangladesh 🇧🇩</p>
 
+###
 
-<!---
-Nahidworld/Nahidworld is a ✨ special ✨ repository because its `README.md` (this file) appears  your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2018<br>📚 I'm currently learning Spring Boot<br>🎯 Goals: Build impactful apps that reach both local 🇧🇩 and global 🌍 users<br>🎲 Fun fact: I can spend hours debugging… only to find it was a missing semicolon 😅</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-original.svg" height="40" alt="nestjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nahidworld&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nahidworld&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=nahidworld&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nahidworld&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=nahidworld.nahidworld&"  />
+</div>
+
+###
